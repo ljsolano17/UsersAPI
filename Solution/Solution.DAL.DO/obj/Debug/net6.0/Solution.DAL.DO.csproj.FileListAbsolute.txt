@@ -1,0 +1,15 @@
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\bin\Debug\net6.0\Solution.DAL.DO.deps.json
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\bin\Debug\net6.0\Solution.DAL.DO.dll
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\bin\Debug\net6.0\Solution.DAL.DO.pdb
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.AssemblyInfoInputs.cache
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.AssemblyInfo.cs
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.sourcelink.json
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.dll
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\refint\Solution.DAL.DO.dll
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.pdb
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\ref\Solution.DAL.DO.dll
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.csproj.AssemblyReference.cache
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\bin\Debug\net6.0\Solution.DAL.DO.runtimeconfig.json
+E:\REPOSITORIO-GIT\.NET Core\UsersAPI\UsersAPI\Solution\Solution.DAL.DO\obj\Debug\net6.0\Solution.DAL.DO.genruntimeconfig.cache

@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\Solution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|solutionrelative:solution.dal.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC7694F-81D6-43B0-AB44-EB162DCC333F}|Solution.DAL.DO\\Solution.DO.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal.do\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC7694F-81D6-43B0-AB44-EB162DCC333F}|Solution.DAL.DO\\Solution.DO.csproj|solutionrelative:solution.dal.do\\interfaces\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|solutionrelative:solution.dal.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828C69B3-049A-4403-B098-DC7247C5FABA}|Solution.DAL.EF\\Solution.DAL.EF.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal.ef\\solutiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828C69B3-049A-4403-B098-DC7247C5FABA}|Solution.DAL.EF\\Solution.DAL.EF.csproj|solutionrelative:solution.dal.ef\\solutiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.DO\\Interfaces\\ICRUD.cs",
+              "RelativeDocumentMoniker": "Solution.DAL.DO\\Interfaces\\ICRUD.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.DO\\Interfaces\\ICRUD.cs",
+              "RelativeToolTip": "Solution.DAL.DO\\Interfaces\\ICRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:45:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Solution.DAL.Repository\\IRepository.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\IRepository.cs",
+              "RelativeToolTip": "Solution.DAL.Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:44:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Solution.DAL.Repository\\Repository.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\Repository.cs",
+              "RelativeToolTip": "Solution.DAL.Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:44:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolutionDbContext.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.EF\\SolutionDbContext.cs",
+              "RelativeDocumentMoniker": "Solution.DAL.EF\\SolutionDbContext.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.EF\\SolutionDbContext.cs",
+              "RelativeToolTip": "Solution.DAL.EF\\SolutionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:44:24.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
