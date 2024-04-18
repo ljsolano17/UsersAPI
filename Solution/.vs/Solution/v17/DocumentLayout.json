@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC12E228-07FC-4AD3-BA30-A91744CEC09A}|Solution.DAL\\Solution.DAL.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC12E228-07FC-4AD3-BA30-A91744CEC09A}|Solution.DAL\\Solution.DAL.csproj|solutionrelative:solution.dal\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|e:\\repositorio-git\\.net core\\usersapi\\usersapi\\solution\\solution.dal.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663FADDD-5DA6-474C-AD1A-EE3DE30DF972}|Solution.DAL.Repository\\Solution.DAL.Repository.csproj|solutionrelative:solution.dal.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL\\Users.cs",
+              "RelativeDocumentMoniker": "Solution.DAL\\Users.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL\\Users.cs",
+              "RelativeToolTip": "Solution.DAL\\Users.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:19:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ICRUD.cs",
               "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.DO\\Interfaces\\ICRUD.cs",
               "RelativeDocumentMoniker": "Solution.DAL.DO\\Interfaces\\ICRUD.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Solution.DAL.Repository\\IRepository.cs",
@@ -56,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Solution.DAL.Repository\\Repository.cs",
               "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.Repository\\Repository.cs",
               "RelativeToolTip": "Solution.DAL.Repository\\Repository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAAAJAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T22:44:33.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SolutionDbContext.cs",
               "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\UsersAPI\\UsersAPI\\Solution\\Solution.DAL.EF\\SolutionDbContext.cs",
               "RelativeDocumentMoniker": "Solution.DAL.EF\\SolutionDbContext.cs",
