@@ -15,7 +15,7 @@ namespace Solution.DAL.EF
 
         }
 
-        public virtual DbSet<Users> Usuarios { get; set; }
+        public virtual DbSet<Users> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
